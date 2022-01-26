@@ -1,0 +1,29 @@
+Write a program to place 1 at the bottom of matrix M * N contains all zeroes on given column 1
+
+Test case 1:
+
+Input :
+ M : 7
+ N : 5
+ i : 7
+
+output :
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1
+ 
+ Test case 2:
+
+Input :
+ M : 7
+ N : 5
+ i : 1
+
+output :
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0
+ 1 0 0 0 0 0 0
